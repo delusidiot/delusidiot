@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual-Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
 
 <!--
 **delusidiot/delusidiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
