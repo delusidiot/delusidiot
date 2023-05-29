@@ -1,7 +1,7 @@
 # Delusidiot
 - 이메일 : delusidiot@gmail.com
 - 홈페이지 : ~~https://www.drawhale.com~~ (개발중)
-- 자격증 : 정보처리기사, 정보보안기사 필기(2023 1차 실기 준비중)
+- 자격증 : 정보처리기사, 정보보안기사
 - 무직
 -----
 ## Skills
