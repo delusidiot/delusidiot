@@ -1,25 +1,25 @@
 # Delusidiot
 - 이메일 : delusidiot@gmail.com
-- 홈페이지 : ~~https://www.drawhale.com~~ (개발중)
 - 자격증 : 정보처리기사, 정보보안기사
+- BLOG : [뭐라도 끄적이는 BLOG](https://delusidiot.tistory.com/)
+- Notion : [Notion WorkSpace](https://www.notion.so/delusidiot/Computer-SW-f46dfc16d83e4dcab0fb913b4b71d634?pvs=4)
 - 무직
 -----
 ## Skills
 
-### 주 사용 언어
+### 사용해본 언어
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-
-#### 문법만 알고있는 언어
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-6E0101?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+### 공부중인 언어
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
-### Framework
+### 사용중인 Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
@@ -29,6 +29,8 @@
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rocky-10B981?style=flat-square&logo=RockyLinux&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>
@@ -43,17 +45,6 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
-
-
-## 현재 개발중인 홈페이지(2023.01.18)
-#### Backend
-Spring(Spring Cloud, Spring Security 등 Micro Service Architecture로 진행중)
-#### Frontend
-React, css 진행하다가 Next, tailwindcss로 변경
-#### Infra
-Kubernetes 사용예정(현 컴퓨터 리소스로 인해 마스터, 워커 한개씩만 사용중)
-
-(Raspberry PI 2대) MariaDB, MongoDB, Redis, Kafka
 
 ### BootCamp
 - SSAFY
